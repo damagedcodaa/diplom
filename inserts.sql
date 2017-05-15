@@ -25,3 +25,14 @@ insert into serving_areas (serving_area_name)
 values ('Serving_Area_4');
 
 -- insert into positions
+insert into positions (position_name)
+values ('Position_1');
+
+insert into positions (position_name)
+values ('Position_2');
+
+insert into positions (position_name)
+values ('Position_2');
+
+insert into positions (position_name)
+values ('Position_2');
